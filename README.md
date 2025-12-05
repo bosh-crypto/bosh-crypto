@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working: Local business web applications.<br>👯 Collaborate: Frontend devs, open source.<br>🤝 Help: Database query optimization.<br>🌱 Learning: Serverless, cloud development.<br>💬 Ask: Jaipur tech meetups.<br>⚡ Fun: Jaipur's IT growth.
+👯 Collaborate: Frontend devs, open source.<br>🤝 Help: Database query optimization.<br>🌱 Learning: Serverless, cloud development.<br>
 
 
 ## 🌐 Socials:
